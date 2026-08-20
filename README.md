@@ -10,6 +10,3 @@ Features:
 - Checkmark tracking for completed work sessions
 - Configurable sessions before long break
 - Proper timer cancellation on reset
-
-Built as part of 100 Days of Code (Day 28).
-Extended beyond tutorial with additional features.
